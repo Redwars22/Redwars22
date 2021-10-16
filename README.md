@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, fanfics, fictional worlds, languages, fiction, astronomy
 - 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: andrewpereira.megabyte@gmail.com
+- 📫 How to reach me: andrewpereira.megabyte@gmail.com OR @Redwars22 (Discord)
 
 <!---
 Redwars22/Redwars22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

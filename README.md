@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Redwars22/also know as André/Andrew/Léo Andrew, whatever you wanna call me~
 - 👀 I’m interested in web development, fanfics, fictional worlds, languages, fiction, astronomy
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, C
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, C, SQL, C++, C#, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: andrewpereira.megabyte@gmail.com OR @Redwars22 (Discord)
 

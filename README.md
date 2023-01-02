@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @Redwars22/also know as André/Andrew/Léo Andrew, whatever you wanna call me~
-- 👀 I’m interested in web development, fanfics, fictional worlds, languages, fiction, astronomy
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, C, SQL, C++, C#, Python, and experimenting with Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: andrewpereira.megabyte@gmail.com
+<img src="https://raw.githubusercontent.com/Redwars22/andrewnation/main/assets/fictoflag.jpg" width="500px">
 
+- 👋 Hi, I’m @Redwars22/also know as André/Andrew/Léo Andrew/AIden/Adrian/Alexander (all my alter-egos' names begin with A xD), whatever you wanna call me~
+- 👀 I’m interested in web development, fanfics, fictional worlds, languages, fiction, astronomy
+- 🌱 I’m currently learning ... several programming languages at once, since I can't decide which one I wanna learn
+- 💞️ I’m looking to collaborate on ... personal projects with friends and, one day, collaborate on open source projects.
+- 📫 How to reach me: andrewpereira.megabyte@gmail.com or andrewnationdev@gmail.com
+- 
 <div>
   <a href="https://beacons.ai/Redwars22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redwars22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

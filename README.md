@@ -3,15 +3,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwars22&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-<pre>
-- 👋 Hi, I’m @Redwars22/also know as André/Andrew/Léo Andrew/AIden/Adrian/Alexander (all my alter-egos' names begin with A xD), whatever you wanna call me~
-- 👀 I’m interested in web development, fictional worlds, languages, fiction, astronomy
-- 🌱 I’m currently learning ... several programming languages at once, since I can't decide which one I wanna learn
-- 💞️ I’m looking to collaborate on ... personal projects with friends and, one day, collaborate on open source projects.
-- 📫 How to reach me: andrewpereira.megabyte@gmail.com or andrewnationdev@gmail.com
-- Current girlfriend: Harley Quinn/Arlequina
-</pre>
-
 <div>
   <a href="https://beacons.ai/Redwars22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redwars22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

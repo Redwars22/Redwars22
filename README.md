@@ -1,8 +1,4 @@
 <div>
-  <img src="https://user-images.githubusercontent.com/26885598/217094768-b3769a98-a44a-4b6e-9769-5b88bfbb8c43.png" width="50%"/>
-</div>
-
-<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwars22&layout=compact&langs_count=16&theme=dark"/>
   <a href="https://beacons.ai/Redwars22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=redwars22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

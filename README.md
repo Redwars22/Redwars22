@@ -7,6 +7,8 @@
 <center>
 <div>
 
+ <img width="250px" src="https://github.com/Redwars22/Redwars22/assets/26885598/6476bfaf-c7c3-4a7c-84ce-2d4c39f38edf"/>
+
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)

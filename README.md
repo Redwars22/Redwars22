@@ -1,5 +1,16 @@
 # 🚀 About me
-I'm a programmer, a story writer, conworld builder; Basically, I'm someone who enjoys inventing things, learning new languages, meeting new people, and doing nerd stuff. You can find me on [Amazon](https://www.amazon.com/stores/Andrew-Nation/author/B0D8L8DXF8) or Discord under the username `@andrewnation`.
+<pre>
+  
+ ▗▄▖ ▗▖  ▗▖▗▄▄▄ ▗▄▄▖ ▗▄▄▄▖▗▖ ▗▖▗▖  ▗▖ ▗▄▖▗▄▄▄▖▗▄▄▄▖ ▗▄▖ ▗▖  ▗▖
+▐▌ ▐▌▐▛▚▖▐▌▐▌  █▐▌ ▐▌▐▌   ▐▌ ▐▌▐▛▚▖▐▌▐▌ ▐▌ █    █  ▐▌ ▐▌▐▛▚▖▐▌
+▐▛▀▜▌▐▌ ▝▜▌▐▌  █▐▛▀▚▖▐▛▀▀▘▐▌ ▐▌▐▌ ▝▜▌▐▛▀▜▌ █    █  ▐▌ ▐▌▐▌ ▝▜▌
+▐▌ ▐▌▐▌  ▐▌▐▙▄▄▀▐▌ ▐▌▐▙▄▄▖▐▙█▟▌▐▌  ▐▌▐▌ ▐▌ █  ▗▄█▄▖▝▚▄▞▘▐▌  ▐▌
+                                                              
+                                                              
+  I'm a programmer, a story writer, conworld builder; Basically, I'm someone who enjoys inventing things, learning new languages, meeting new people, and doing nerd stuff. 
+</pre>
+  
+  You can find me on [Amazon](https://www.amazon.com/stores/Andrew-Nation/author/B0D8L8DXF8) or Discord under the username `@andrewnation`.
 
 [My website in Portuguese](https://andrewnationdev.vercel.app/)
 

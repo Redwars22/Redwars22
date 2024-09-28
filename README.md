@@ -1,3 +1,4 @@
+# 🚀 About me
 I'm a programmer, a story writer, conworld builder; Basically, I'm someone who enjoys inventing things, learning new languages, meeting new people, and doing nerd stuff. You can find me on [Amazon](https://www.amazon.com/stores/Andrew-Nation/author/B0D8L8DXF8) or Discord under the username `@andrewnation`.
 
 [My website in Portuguese](https://andrewnationdev.vercel.app/)
@@ -5,6 +6,8 @@ I'm a programmer, a story writer, conworld builder; Basically, I'm someone who e
 Do you like my projects? You can support me here:
 
 <img width="250px" src="https://github.com/Redwars22/Redwars22/assets/26885598/6476bfaf-c7c3-4a7c-84ce-2d4c39f38edf"/>
+
+# 🏆 Achievements and Stats
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redwars22&layout=compact&langs_count=16&theme=dark"/>
@@ -14,6 +17,8 @@ Do you like my projects? You can support me here:
 <br>
 <center>
 <div>
+
+# 🤹 Skills
 
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

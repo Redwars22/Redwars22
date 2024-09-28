@@ -7,7 +7,10 @@
 ▐▌ ▐▌▐▌  ▐▌▐▙▄▄▀▐▌ ▐▌▐▙▄▄▖▐▙█▟▌▐▌  ▐▌▐▌ ▐▌ █  ▗▄█▄▖▝▚▄▞▘▐▌  ▐▌
                                                               
                                                               
-  I'm a programmer, a story writer, conworld builder; Basically, I'm someone who enjoys inventing things, learning new languages, meeting new people, and doing nerd stuff. 
+  I AM A PROGRAMMER, A STORY WRITER, A CONWORLD BUILDER...
+  BASICALLY, I'M SOMEONE WHO ENJOYS INVENTING THINGS,
+  LEARNING NEW LANGUAGES AND MEETING NEW PEOPLE,
+  AND, SURE, DOING NERD STUFF
 </pre>
   
   You can find me on [Amazon](https://www.amazon.com/stores/Andrew-Nation/author/B0D8L8DXF8) or Discord under the username `@andrewnation`.

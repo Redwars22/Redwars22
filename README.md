@@ -1,19 +1,15 @@
-# 🚀 About me
-<pre>
-  
- ▗▄▖ ▗▖  ▗▖▗▄▄▄ ▗▄▄▖ ▗▄▄▄▖▗▖ ▗▖▗▖  ▗▖ ▗▄▖▗▄▄▄▖▗▄▄▄▖ ▗▄▖ ▗▖  ▗▖
-▐▌ ▐▌▐▛▚▖▐▌▐▌  █▐▌ ▐▌▐▌   ▐▌ ▐▌▐▛▚▖▐▌▐▌ ▐▌ █    █  ▐▌ ▐▌▐▛▚▖▐▌
-▐▛▀▜▌▐▌ ▝▜▌▐▌  █▐▛▀▚▖▐▛▀▀▘▐▌ ▐▌▐▌ ▝▜▌▐▛▀▜▌ █    █  ▐▌ ▐▌▐▌ ▝▜▌
-▐▌ ▐▌▐▌  ▐▌▐▙▄▄▀▐▌ ▐▌▐▙▄▄▖▐▙█▟▌▐▌  ▐▌▐▌ ▐▌ █  ▗▄█▄▖▝▚▄▞▘▐▌  ▐▌
-                                                              
-                                                              
-  I AM A PROGRAMMER, A STORY WRITER, A CONWORLD BUILDER...
-  BASICALLY, I'M SOMEONE WHO ENJOYS INVENTING THINGS,
-  LEARNING NEW LANGUAGES AND MEETING NEW PEOPLE,
-  AND, SURE, DOING NERD STUFF
+# 👋 Hello, I'm Andrew Nation! 🚀
+
+<pre>                                                      
+  I'M A PROGRAMMER, A STORY WRITER, AND A CONWORLD BUILDER—ESSENTIALLY, 
+  SOMEONE WHO LOVES TO INVENT THINGS! MY PASSIONS INCLUDE LEARNING NEW 
+  LANGUAGES, MEETING NEW PEOPLE, AND, OF COURSE, DIVING DEEP INTO 
+  "NERD STUFF".
+
+  YOU'RE WELCOME TO EXPLORE MY STUFF!
 </pre>
   
-  You can find me on [Amazon](https://www.amazon.com/stores/Andrew-Nation/author/B0D8L8DXF8) or Discord under the username `@andrewnation`.
+  You can find me on Discord under the username `@andrewnation`.
 
 [My website in Portuguese](https://andrewnationdev.vercel.app/)
 
